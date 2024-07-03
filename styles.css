@@ -1,0 +1,85 @@
+
+h1, p {
+    text-align: center;
+}
+h1 {
+    margin-bottom: 0;
+}
+p {
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+}
+body{
+    margin: 0 auto;
+    max-width: 700px;
+    min-width: 300px;
+    background-image: url(unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    font-family: system-ui;
+    font-size: 18px;
+    
+}/* auto -> to center the Body element */
+
+fieldset{
+    border: none;
+    margin: 0.5em;
+}
+
+form{
+    background-color: rgba(2, 25, 48, 0.8);
+    padding-bottom: 2.5rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    padding-top: 1.5rem;
+    
+}
+label {
+    display: block;
+    margin: 0.5rem 0;
+    font-size: 18px;
+}
+input[name="personal-data"]{
+    display: block;
+    width: 100%;
+    margin-top: 0.5rem;
+    height: 1.5rem;
+}
+select{
+    display: block;
+    width: 101.3%;
+    margin-top: 0.5rem;
+    height: 2.0rem;
+}
+
+.inline{
+    width: unset;
+    margin: 0 0.5em 0 0;
+}
+textarea{
+    display: block;
+    margin: 0.5rem 0;
+    width: 100%;
+    height: 6rem;
+}
+.spacing-to-the-top {
+    margin-top: 1.5rem;
+}
+
+input[type="submit"]{
+    display: block;
+    width: 101.3%;
+    margin: 0.5rem auto;
+    height: 3rem;
+    font-size: 18px; 
+    background-color: #5d84cf;
+    color: white;
+    border: none;
+}
+legend{
+    margin-top: 1rem;
+    font-size: 18px;
+}

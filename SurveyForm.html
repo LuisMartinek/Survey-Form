@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>tips & Ideas</title> 
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="styles.css">
+   </head>
+   <body>
+      <h1 id="title">Tips & Ideas</h1>
+      <p id="description"><i>Thank you for helping me improve my website and coding skills. Your support is appreciated</i></p>
+      <form id="survey-form">
+         <fieldset>
+            <label id="name-label" for="name">Name <input name="personal-data" id="name" type="text" placeholder="Enter your name" required></label>
+            <label id="email-label" for="email">E-Mail <input name="personal-data" id="email" type="email" placeholder="Enter your Email" required></label>
+            <label id="number-label" for="number">Age <input name="personal-data" id="number" type="number" min="12" max="120" placeholder="Age"></label>
+         </fieldset>
+         <fieldset>
+            <label for="dropdown">Which option best describes your current role?
+               <select id="dropdown" required>
+                  <option value="">Select current role</option>
+                  <option value="1">Student</option>
+                  <option value="2">Full Time Job</option>
+                  <option value="3">Full Time lerner</option>
+                  <option value="4">Prefer not to say</option>
+                  <option value="5">Other</option>
+               </select>
+            </label>
+         </fieldset>
+         <fieldset>
+            <legend>How do you like the overall design on this website?</legend>
+               <label for="perfect"><input name="website-ratting" value="perfect" id="perfect" type="radio" checked>Its almost Perfect</label>
+               <label for="good"><input name="website-ratting" value="good" id="good" type="radio">I like it a lot but...</label>
+               <label for="ok"><input name="website-ratting" value="ok" id="ok" type="radio">its ok</label>
+               <label for="not so good"><input name="website-ratting" value="not so good" id="not so good" type="radio">there is a lot to improve such as...</label>
+               <!--to make it that only one radio button is selected at a time add the name attribute with the same value to all input elements-->
+            <label class="spacing-to-the-top" for="tips"><i>-feel free to drop any tips of improvement here-</i><textarea name="tips" id="tips" rows="3" cols="30" placeholder="Enter your tips here..."></textarea></label>
+         </fieldset>
+         <fieldset>
+            <legend>Whats your favorite Project on my Website? <small>(you can select more than one)</small></legend> 
+               <label for="my-website"><input value="my-website" name="favorite-project" id="my-website" type="checkbox">My Website itself LOL</label>
+               <label for="rubiks-cube"><input value="rubiks-cube" name="favorite-project" id="rubiks-cube" type="checkbox">Rubiks Cube assistant</label>
+               <label for="color-wheel"><input value="color-wheel" name="favorite-project" id="color-wheel" type="checkbox">Color wheel</label>
+               <label for="calculator"><input value="calculator" name="favorite-project" id="calculator" type="checkbox">Calculator Widget</label>
+               <label for="nutrition-app"><input value="calculator" name="favorite-project" id="nutrition-app" type="checkbox">Nutrition App</label>
+         </fieldset>
+         <fieldset>
+            <label for="suggestions">Any Ideas for coding Projects in the Future?<textarea name="coding-projects" id="suggestions" rows="3" cols="30" placeholder="Enter your ideas for coding project here..."></textarea></label>
+         </fieldset>
+         <fieldset>
+         <input id="submit" type="submit" value="Submit">
+         </fieldset>
+      </form>
+   </body>
+</html>

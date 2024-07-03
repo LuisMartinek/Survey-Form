@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="5oyMmrbkHAZk5r1M_R0S" name="Page-1">
+        <mxGraphModel dx="1856" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="transparent&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="155" y="110" width="540" height="840" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Tipp's and Idea's&lt;br&gt;thanks for takting time to help me improve my Website and coding skilles" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="20" width="470" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="first Fieldset with&amp;nbsp;&lt;br&gt;&lt;br&gt;Name&lt;br&gt;&lt;br&gt;&lt;br&gt;E-mail&lt;br&gt;&lt;br&gt;&lt;br&gt;Age&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="170" width="480" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="second Fieldset with&amp;nbsp;&lt;br&gt;&lt;br&gt;select elemtent -&amp;gt; Which option best descirbes your current role&amp;nbsp;&lt;br&gt;-&amp;gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="360" width="480" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="third Fielsdset with&amp;nbsp;&lt;br&gt;radio buttons -&amp;gt; How do you like the overall design on this website&lt;br&gt;-&amp;gt; Its allmost perfect&amp;nbsp;&lt;br&gt;-&amp;gt; I like it allot but...&lt;br&gt;-&amp;gt; its ok&amp;nbsp;&lt;br&gt;-&amp;gt; there is a lot to improve such as...&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;feell free to drop any tips of improvement here&lt;br&gt;&lt;/span&gt;textarea element&amp;nbsp;&lt;br&gt;" style="whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="480" width="480" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="whats your favorite Project on my Website?(you can select more than one ;))&lt;br&gt;-&amp;gt; Checkbox&lt;br&gt;..." style="whiteSpace=wrap;html=1;fontSize=13;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="680" width="480" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="any Ideas for coding Projects in the Future?&lt;br&gt;textaea element&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="770" width="480" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Submit (button)" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="860" width="480" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="picture&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
